@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.my-nav-bar {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-btn {
+    background-color: cadetblue;
+    color: black;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 0.5 rem;
+  }  
+  
+.user-login {
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+
+}

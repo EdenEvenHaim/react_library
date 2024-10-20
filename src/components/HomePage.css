@@ -1,0 +1,76 @@
+.homepage {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .hero {
+    background-color: #f5f5f5;
+    padding: 50px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .explore-btn {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .features {
+    padding: 40px 20px;
+    background-color: #ecf0f1;
+  }
+  
+  .features h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .feature-card {
+    width: 30%;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+    
+  .view-all-btn {
+    display: inline-block;
+    background-color: #2ecc71;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #34495e;
+    color: white;
+  }
+  
+  .footer p a {
+    margin: 5px 0;
+    color: #ecf0f1;
+  }
+  
